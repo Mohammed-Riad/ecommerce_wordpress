@@ -15,5 +15,10 @@ Users can search for a product. The user must register to the website and need a
 
 *Can add the item to the wish list can rate the product. Users can put coupons to get a discount. Your website should be a multilingual website: Arabic and English. (optional) You must add plugins for SEO and security
 
+<h1>wireframe</h1>
+
 ![wireframe img](img/WirFrame.png)
+
+<h1>Mockup</h1>
+
 ![mock up img](img/Mockup.png)
