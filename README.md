@@ -46,6 +46,6 @@ Only Login users can do the following:
 
 # Mockup & Framewire
 
-wirFrame : (httpswww.figma.comfilenWouZsrM6rH42b8lp3JYScUntitlednode-id=0%3A1)
+wirFrame : (https://www.figma.com/file/nWouZsrM6rH42b8lp3JYSc/Untitled?node-id=0%3A1)
 <br>
-Mokups :  (httpswww.figma.comfilenWouZsrM6rH42b8lp3JYScUntitlednode-id=0%3A1)
+Mokups :  (https://www.figma.com/file/GHhtHwQgPRKZAiIwnJNVcR/Untitled?node-id=0%3A1)
